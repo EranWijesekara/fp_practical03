@@ -1,0 +1,35 @@
+2024.07.02 03:06:15 INFO  Started: Metals version 1.3.2 in folders '/Users/eranwijesekara/Downloads/week3' for client Visual Studio Code 1.90.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@a69d420]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@32b33b69]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@a69d420]
+2024.07.02 03:06:15 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.02 03:06:16 INFO  no build target found for /Users/eranwijesekara/Downloads/week3/q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jul 02, 2024 3:06:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+Jul 02, 2024 3:06:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+Jul 02, 2024 3:06:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Jul 02, 2024 3:06:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2024.07.02 03:06:15 INFO  no build target found for /Users/eranwijesekara/Downloads/week3/q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.02 03:06:18 INFO  Running List(/Users/eranwijesekara/Library/Application Support/Coursier/bin/scala-cli, setup-ide, /Users/eranwijesekara/Downloads/week3)
+2024.07.02 03:06:18 INFO  Attempting to connect to the build server...
+2024.07.02 03:06:18 INFO  Running BSP server List(/Users/eranwijesekara/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/eranwijesekara/Downloads/week3/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/eranwijesekara/Downloads/week3/.scala-build/ide-launcher-options.json, --envs-file, /Users/eranwijesekara/Downloads/week3/.scala-build/ide-envs.json, /Users/eranwijesekara/Downloads/week3)
+2024.07.02 03:06:18 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/eranwijesekara/Downloads/week3/.metals/bsp.trace.json or /Users/eranwijesekara/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.07.02 03:06:19 INFO  BSP server: Starting compilation server
+2024.07.02 03:06:21 INFO  time: Connected to build server in 2.7s
+2024.07.02 03:06:21 INFO  Connected to Build server: scala-cli v1.3.2
+2024.07.02 03:06:21 INFO  time: Imported build in 0.11s
+2024.07.02 03:06:21 INFO  compiling week3_f4dd477a3a (4 scala sources)
+Jul 02, 2024 3:06:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+Jul 02, 2024 3:06:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18
+Jul 02, 2024 3:06:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+Jul 02, 2024 3:06:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+2024.07.02 03:06:26 INFO  time: indexed workspace in 4.86s
