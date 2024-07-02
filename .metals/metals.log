@@ -33,3 +33,5 @@ WARNING: Unmatched cancel notification for request id 15
 Jul 02, 2024 3:06:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
 WARNING: Unmatched cancel notification for request id 16
 2024.07.02 03:06:26 INFO  time: indexed workspace in 4.86s
+Jul 02, 2024 3:16:18 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
